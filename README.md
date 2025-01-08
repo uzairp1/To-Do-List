@@ -1,1 +1,1 @@
-# To-Do-List
+A basic to-do list application built using HTML, CSS, and JavaScript. This project allows users to add, delete, and edit tasks. It helps you to keep track of your daily tasks and manage your time efficiently. It's a great example of dynamic functionality and clean design in a beginner-friendly project.
